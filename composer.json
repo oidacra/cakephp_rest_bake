@@ -13,7 +13,7 @@
             "name": "Arcadio",
             "email": "arcadio@accionasolutions.net"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": {
             "RestBake\\": "src"
