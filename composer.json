@@ -1,7 +1,6 @@
 {
     "name": "oidacra/cakephp_rest_bake",
     "description": "REST Bake template for CakePHP 3+",
-    "homepage": "http://github.com/ADmad/cakephp-jwt-auth",
     "type": "cakephp-plugin",
     "require": {
         "php": ">=5.4",
@@ -17,7 +16,7 @@
     ]
     "autoload": {
         "psr-4": {
-            "Oidacra\\CakephpRestBake\\": "src"
+            "RestBake\\": "src"
         }
     },
 }
